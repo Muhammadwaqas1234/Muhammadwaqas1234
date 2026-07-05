@@ -50,6 +50,14 @@ I'm an AI Engineer with a graduate background in Artificial Intelligence and a s
 
 ---
 
+## 🏅 ACHIEVEMENTS
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Muhammadwaqas1234&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&title_color=00B4D8" alt="GitHub Trophies" />
+</p>
+
+---
+
 ## 📊 GITHUB STATS
 
 <p align="center">
