@@ -53,7 +53,7 @@ I'm an AI Engineer with a graduate background in Artificial Intelligence and a s
 ## 🏅 ACHIEVEMENTS
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Muhammadwaqas1234&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&title_color=00B4D8" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=Muhammadwaqas1234&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&title_color=00B4D8" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -61,8 +61,8 @@ I'm an AI Engineer with a graduate background in Artificial Intelligence and a s
 ## 📊 GITHUB STATS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammadwaqas1234&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00B4D8&icon_color=00B4D8&text_color=c9d1d9" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadwaqas1234&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00B4D8&text_color=c9d1d9" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Muhammadwaqas1234&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00B4D8&icon_color=00B4D8&text_color=c9d1d9" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Muhammadwaqas1234&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00B4D8&text_color=c9d1d9" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
